@@ -24,15 +24,21 @@ Unfortunately, Los Angeles (LA), California, the second most populous city in th
 ###### Picture credit: Service, City News. “Record-Setting Heat Wave Grips Southern California: What to Expect.” FOX 11 Los Angeles, FOX 11 Los Angeles, 29 Aug. 2023, www.foxla.com/news/heat-wave-temperatures-southern-california-weather. 
 
 
+
+
 **Importance of Question**
 
 This project provides the opportunity to understand how hot weather affects different socioeconomic classes and helps uncover potential disparities in exposure and vulnerability. Los Angeles experiences the urban heat island effect, where urban areas are significantly warmer than surrounding rural areas. Investigating how this phenomenon affects different socioeconomic classes provides insights into potential disparities in exposure and vulnerability.
 Our research can inform urban planning strategies and policy design to policymakers. Identifying areas where vulnerable socioeconomic groups are disproportionately affected by high temperatures can guide the development of targeted interventions and climate-resilient infrastructure.
 
+
+
 **Spatial Scope**
 
 The spatial scope of our project covers the city of Los Angeles, California. A spatial aspect is crucial because different areas within Los Angeles County may experience varying degrees of exposure to heat, and socioeconomic factors can contribute to disparities in vulnerability.
 Spatial research on high heat can inform urban planning strategies. Identifying hotspots helps city planners develop strategies to mitigate the urban heat island effect, such as incorporating green spaces, cool roofs, and other heat-reducing infrastructure, which is especially important for the poverty population to minimize the diseases caused by high heat. Understanding the spatial distribution of high heat can aid in optimizing energy use, particularly during peak heat periods, and contribute to more energy-using efficiency, which decreases carbon emissions.
+
+
 
 **Preliminary Data Sources**
 
@@ -42,9 +48,13 @@ Heat.Gov National Integrated Heat Health Information System (NIHHIS): https://ww
  
 US Census Bureau: https://www.census.gov/programs-surveys/ahs.html
 
+
+
 **Scope of Intended Analysis**
 
 Our intended analysis aims to create a comprehensive map and integrate layers of heat and social vulnerabilities (i.e., race and income). By combining these layers, we seek to examine the correlation between heat indexes and socioeconomic classes in the Los Angeles area. Our goal is to visualize the distribution of these factors collectively, providing a clearer understanding of how different groups of people distribute around these environmental and social variables.
+
+
 
 **Conclusion**
 
