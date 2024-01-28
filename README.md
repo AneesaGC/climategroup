@@ -1,4 +1,4 @@
-## Climate Group
+# Climate Group
 
 **Group Members:**
 
@@ -9,7 +9,7 @@ Pa-Shun Hawkins
 Yu Wang
 
 
-# **Research Question:**
+## **Research Question:**
 Are  socioeconomic classes disproportionately affected by excessively warm weather conditions in Los Angeles, California?
  
 **Introduction** 
