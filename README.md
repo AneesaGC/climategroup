@@ -52,6 +52,7 @@ Our anticipated results include identifying a correlation between disadvantaged 
 Furthermore, our research findings can contribute valuable information to urban planning policies. Our hope is that policymakers will develop adaptive strategies to protect vulnerable populations and improve overall urban sustainability.
 
 
+
 **Preliminary Strategy for Project**
 
 
