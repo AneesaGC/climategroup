@@ -9,6 +9,11 @@ This escalating trend poses a significant threat to socially vulnerable groups, 
 
 Unfortunately, Los Angeles (LA), California, the second most populous city in the United States, is not exempt from the ramifications of these weather extremes. Climate-change projections for California indicate a continuous rise in greenhouse gas emissions, with the state expected to warm by over 2 degrees Fahrenheit by 2040 and more than 6 degrees Fahrenheit by 2100. Consequently, our research hopes to shed light on the potential disproportionate impact of heat exposure on the residents of California, highlighting the urgency for targeted interventions and strategies to mitigate the risks faced by vulnerable populations.
 
+<img width="827" alt="Screenshot 2024-01-27 at 10 54 10 PM" src="https://github.com/AneesaGC/climategroup/assets/155931699/df79905d-af46-4b3d-8cff-ed59f6875c2a">
+
+###### Picture credit: Service, City News. “Record-Setting Heat Wave Grips Southern California: What to Expect.” FOX 11 Los Angeles, FOX 11 Los Angeles, 29 Aug. 2023, www.foxla.com/news/heat-wave-temperatures-southern-california-weather. 
+
+
 **Importance of Question**
 
 This project provides the opportunity to understand how hot weather affects different socioeconomic classes and helps uncover potential disparities in exposure and vulnerability. Los Angeles experiences the urban heat island effect, where urban areas are significantly warmer than surrounding rural areas. Investigating how this phenomenon affects different socioeconomic classes provides insights into potential disparities in exposure and vulnerability.
