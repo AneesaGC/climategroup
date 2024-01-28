@@ -1,8 +1,11 @@
 # Climate Group
 
 Group Members:
-Aneesa Gomez-Cervantes,
-Pa-Shun Hawkins, and 
+
+Aneesa Gomez-Cervantes
+
+Pa-Shun Hawkins
+
 Yu Wang
 
 
