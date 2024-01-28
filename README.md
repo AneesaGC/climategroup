@@ -51,5 +51,8 @@ Our intended analysis aims to create a comprehensive map and integrate layers of
 Our anticipated results include identifying a correlation between disadvantaged communities and locations experiencing elevated heat waves in Los Angeles. Emphasizing this correlation is crucial, and the goal is to create a visual representation via mapping. This importance stems from the fact that despite often contributing the least to environmental degradation, disadvantaged communities are disproportionately vulnerable to them. The visual representation aims to raise awareness about the unequal impact on communities in Los Angeles, prompting the need for decisive action.
 Furthermore, our research findings can contribute valuable information to urban planning policies. Our hope is that policymakers will develop adaptive strategies to protect vulnerable populations and improve overall urban sustainability.
 
+
 **Preliminary Strategy for Project**
+
+
 <img width="587" alt="Screenshot 2024-01-27 at 10 47 08 PM" src="https://github.com/AneesaGC/climategroup/assets/155931699/5ce918cb-3dd5-4089-a3ee-c7332ceb54d6">
