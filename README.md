@@ -1,4 +1,10 @@
-# climate group
+# Climate Group
+
+Group Members:
+Aneesa Gomez-Cervantes
+Pa-Shun Hawkins
+Yu Wang
+
 
 **Research Question:** Are  socioeconomic classes disproportionately affected by excessively warm weather conditions in Los Angeles, California?
  
