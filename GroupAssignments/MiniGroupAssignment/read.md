@@ -6,7 +6,7 @@
 
 ### Aneesa:(NIHHIS Data Mapper): This week I will map the heat waves number of events, social vulnerability score, and the building value in LA. I will make various choropleth maps and a folium map.
 
-### Yu: (Census Data Mapper): This week I will map 
+### Yu: (Census Data Mapper): This week I will map  by three values,  the frequency of high temperature of land surface in LA, people who don't have vehicle and people(bigger than 18 years) who are less than high school education.
 
 ## Status update: 
 ### Currently, we are making progress in formulating a clear research objective. Specifically, we are in the process of refining the variables that we intend to examine in relation to heat to understand its impact. Additionally, we have conducted meetings to categorize various vulnerability factors that we aim to map, drawing insights from relevant literature. 
