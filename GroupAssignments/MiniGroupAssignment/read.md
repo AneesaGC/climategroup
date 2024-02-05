@@ -18,7 +18,7 @@
 ### Data used by Aneesa: [NIHHIS](https://www.heat.gov/datasets/9da4eeb936544335a6db0cd7a8448a51_0/about)
 ### This is the data set I am using from the NIHHIS. This link gives information on heatwave data regarding several different categories. I will be focusing on heat waves, the number of events, the social vulnerability score, and the building value in LA county.
  
-### Data used by Yu: 
+### Data used by Yu: Heat Health Census Tracts from esri. https://gis-for-racialequity.hub.arcgis.com/datasets/climatesolutions::heat-health-census-tracts/about
 
 ## Concerns:  
 ### No major concerns at this time. Troubleshooting folium map plans to improve the map (Aneesa).
