@@ -64,6 +64,6 @@ Furthermore, our research findings can contribute valuable information to urban 
 
 
 **Preliminary Strategy for Project**
+![Grey Simple Modern Arrow Step Infographic Chart Graph](https://github.com/AneesaGC/climategroup/assets/155931699/7182c71b-0db8-407f-b5f1-a74d60867b55)
 
 
-<img width="587" alt="Screenshot 2024-01-27 at 10 47 08 PM" src="https:// .com/AneesaGC/climategroup/assets/155931699/5ce918cb-3dd5-4089-a3ee-c7332ceb54d6">
